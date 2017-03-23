@@ -29,7 +29,7 @@ public class CarTest {
 		genesis.setMaxspeed (225);
 		genesis.setPrice(50000000);
 		
-		System.out.println("<< 자동차 목록>>");
+		System.out.println("<< 자동차 목록 >>");
 		System.out.println("제조사명 : "+ genesis.getCompany());
 		System.out.println("모델명 : "+genesis.getModel());
 		System.out.println("색상 : "+genesis.getColor());
